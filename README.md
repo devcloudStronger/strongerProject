@@ -1,0 +1,2 @@
+# strongerProject
+myRepository
